@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #8338bd;             /* fondo color---------------------------------------- */
+  color: #8338bd;             /* color de enlace rules and guidelines---------------------------------------- */
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #2adad2;             /* color de ---------------------------------------- */
   text-decoration: underline;
 }
 
