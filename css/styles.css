@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "UTF-8"; 
 /*!
 * Start Bootstrap - Resume v6.0.1 (https://startbootstrap.com/template-overviews/resume)
 * Copyright 2013-2020 Start Bootstrap
@@ -6097,7 +6097,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #26f012!important;
+  background-color: #35e7dc!important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
